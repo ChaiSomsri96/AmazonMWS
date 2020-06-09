@@ -1,0 +1,17 @@
+{
+  "name": "amazon_mws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "George",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-mws": "0.0.27",
+    "amazon-mws-api": "0.0.1",
+    "mws-sdk": "^0.9.7"
+  }
+}
